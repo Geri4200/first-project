@@ -1,1 +1,2 @@
-15
+public class main{
+}
